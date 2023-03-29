@@ -1,0 +1,21 @@
+{
+    "name": "testing",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "license": "ISC",
+    "dependencies": {
+      "cors": "^2.8.5",
+      "dotenv": "^9.0.2",
+      "express": "^4.17.1",
+      "http": "^0.0.1-security",
+      "mongoose": "^5.12.9",
+      "nodemon": "^2.0.7"
+    },
+    "devDependencies": {},
+    "author": "",
+    "description": ""
+  }
